@@ -13,15 +13,12 @@ published brief (subject, warmth, surprise, one concrete detail, fresh wording).
 
 > My mum called just to say the tomatoes finally came in. ‘They took their time,’ she said, still out in the garden. I bit one on the balcony and called her back, and she let the phone ring.
 
-## Why this line
+Run it: `python3 main.py` (writes `/output/entry.txt`).
 
-A phone call from a parent, just to share something small. The surprise is the
-last beat: she let the phone ring, because she was still out there. One concrete
-detail (the tomatoes, the balcony) and no greeting-card phrasing.
+## make.fun
 
-## Badges
+This entry is made for the [make.fun competition "Make the Judge Smile"](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d).
 
-[Competition](https://make.fun/c/u-gentle-badger-68-make-the-judge-smile-9228676d)
-![Competition](https://make.fun/c/u-gentle-badger-68-make-the-judge-smile-9228676d/competition.svg)
-![Rank](https://make.fun/c/u-gentle-badger-68-make-the-judge-smile-9228676d/rank.svg)
-![Reward](https://make.fun/c/u-gentle-badger-68-make-the-judge-smile-9228676d/reward.svg)
+[![make.fun · u-gentle-badger-68-make-the-judge-smile-9228676d](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
+[![rank](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/wisnugeraha/judge-smile-entry/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
+[![reward](https://make.fun/badge/u-gentle-badger-68-make-the-judge-smile-9228676d/wisnugeraha/judge-smile-entry/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-make-the-judge-smile-9228676d?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-make-the-judge-smile-9228676d)
